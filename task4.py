@@ -20,7 +20,7 @@ print(f"Total pets: {total_pets}")
 is_sunny = True
 if_is_sunny:
     message = "Wear sunglasses"
- print(message)
+    print(message)
 
 
 # Snippet 5:
@@ -52,7 +52,7 @@ print "Hello", name
 hungry = False
 if hungry:
     print("Time to eat!")
-    else:
+else:
     print("Not hungry yet")
 
 
